@@ -102,6 +102,7 @@ predict(w1,w2,test)
 
 
 <H3>Output:</H3>
+
 ![alt text](<Screenshot 2026-08-19 114504.png>)
 
 
